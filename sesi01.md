@@ -11,7 +11,7 @@ Mari kita secara singkat pelajari **class**, **object**, **methods** dan **insta
 		Begitu juga dengan Object yang adalah instance dari suatu **Class**.
 
 2. **Class** - Class **A** dapat didefinisikan sebagai template / blue print yang menggambarkan perilaku atau
-	menyatakan bahwa Object dukungan dari dirinya.
+	menyatakan bahwa sebuah Object adalah dukungan dari Class itu sendiri.
 
 3. **Methods** - Methods pada dasarnya adalah perilaku. Sebuah Class dapat berisi banyak Methods. 
 	Pada Methods-lah logika ditulis, data dimanipulasi dan semua tindakan yang dieksekusi.
@@ -63,7 +63,7 @@ Hal-hal berikut sangat penting untuk diingat dalam pemograman java.
 1. **Case Sensitivity** - Java adalah bahasa pemrograman yang memiliki sifat case sensitive yang berarti 
 	identifier Hello dan halo akan memiliki arti yang berbeda di Java.
 	
-2. **Class Names ** - Untuk semua nama Class huruf pertama harus di Upper Case. 
+2. **Class Names** - Untuk semua nama Class huruf pertama harus di Upper Case. 
 	Jika terdapat lebih dari satu kata yang digunakan untuk membuat nama Class maka masing-masing kata dalam huruf pertama harus di Upper Case.
 	Contoh : **MyFirstJavaClass Class**.
 	
