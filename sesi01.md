@@ -68,9 +68,12 @@ Hal-hal berikut sangat penting untuk diingat dalam pemograman java.
 	Contoh : **MyFirstJavaClass Class**.
 	
 3. **Method Names** - Semua nama Method harus dimulai dengan huruf Lower Case. 
-	Jika Method dibuat dengan susunan beberapa kata-kata, maka huruf pertama setiap kata dalam itu harus di Upper Case. 
-	Contoh public void myMethodName ().
+	Jika Method dibuat dengan susunan beberapa kata-kata, maka huruf pertama pada setiap kata dalam method itu harus di Upper Case. 
+	Contoh : _public void myMethodName()_**.
 	
-4. 
+4. **File Name** - Nama file program harus sesuai dengan nama class. Ketika menyimpan file Anda harus menggunakan nama class
+	_(Ingat java adalah case sensitive)_** dan tambahkan ekstensi ke akhir nama `.java`. 
+	_(Jika nama file dan nama kelas tidak cocok program Anda tidak dapat dikompilasi)_**. 
+	Contoh: Asumsikan `MyFirstJavaProgram` adalah nama class. Maka file tersebut harus disimpan sebagai ``MyFirstJavaProgram.java``
 
 
